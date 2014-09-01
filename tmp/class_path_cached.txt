@@ -1,0 +1,1 @@
+a:1:{s:6:"ClassA";s:20:"./a/ClassA.class.php";}
